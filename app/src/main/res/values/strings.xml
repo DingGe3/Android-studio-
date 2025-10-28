@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="rolling"> 2023222765 2023222765 2023222765 2023222765 2023222765 2023222765 2023222765 2023222765 2023222765 2023222765 2023222765 2023222765 2023222765 </string>
+    <string name="introduce">在下方输入框输入聚会挑战，点击按钮添加到列表中，如需重新输入请按重置键</string>
+</resources>
